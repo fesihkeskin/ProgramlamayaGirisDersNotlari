@@ -1,3 +1,8 @@
+# Exception in ignored directory
+# Ignore everything in the 'docs' directory
+ProgramlamayaGiris_I/pg1_lab_uygulamalari
+ProgramlamayaGiris_II/pg2_lab_uygulamalari
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
