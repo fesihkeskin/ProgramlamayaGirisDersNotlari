@@ -47,7 +47,7 @@ Bu ders materyallerini geliştirmeye yönelik önerileriniz veya düzeltmelerini
 Bu proje MIT Lisansı altında lisanslanmıştır. Bkz [![MIT Lisansı](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 # İletişim
-Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [fesihkeskin@gmail.com](mailto:fesih.keskin@igdir.edu.tr) mail adresinden iletişime geçiniz: 
+Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [fesih.keskin@igdir.edu.tr](mailto:fesih.keskin@igdir.edu.tr) mail adresinden iletişime geçiniz: 
 
 Dr. Öğr. Üyesi Fesih Keskin
 
